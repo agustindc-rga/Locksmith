@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9D60D8141B10927B00BE14A9 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9D60D8131B10927B00BE14A9 /* Info.plist */; };
 		9DF0A2C01B0E394F0049F83A /* Locksmith.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DF0A2BE1B0E394F0049F83A /* Locksmith.swift */; };
 		9DF0A2C11B0E394F0049F83A /* LocksmithRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DF0A2BF1B0E394F0049F83A /* LocksmithRequest.swift */; };
 		9DF0A2C81B0E3D370049F83A /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9DF0A2C71B0E3D370049F83A /* Info.plist */; };
@@ -197,7 +196,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9D60D8141B10927B00BE14A9 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
